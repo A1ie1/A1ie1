@@ -1,7 +1,7 @@
-### Hi, I'm [ALIEL]!
+### Hi, I'm ALIEL!
 
 🧑🏻‍💻 Aspiring Software Engineer on a learning journey in tech.
-👨🏻‍🎓 Studying Computer Science at [Rafael Landivar University].
+👨🏻‍🎓 Studying Computer Science at Rafael Landivar University.
 🎥 Creating videos about, tech, and productivity on YouTube.
 🌱 #learninginpublic in my digital garden.
 💡 Currently diving into data analytics and dataviz!
